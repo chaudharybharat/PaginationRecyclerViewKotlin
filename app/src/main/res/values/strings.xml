@@ -1,0 +1,5 @@
+<resources>
+  <string name="app_name">PaginationRecyclerView Kotlin</string>
+  <string name="text_title">Android Apps &#160; </string>
+  <string name="text_description">Android Apps Happy coding with pagination </string>
+</resources>
